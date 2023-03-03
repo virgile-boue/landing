@@ -1,0 +1,35 @@
+.footer {
+    background-color: white;
+    padding: 40px;
+    box-shadow: 10px 20px 30px rgb(0, 128, 0, 0.2);
+    border-radius: 10px;
+    margin: 40px 0px;
+    text-align: center;
+}
+
+
+
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 10px
+}
+
+
+.fa-brands {
+    font-size: 50px;
+    color: rgb(0, 128, 0, 0.5)
+}
+
+.list-inline i:hover {
+    font-size: 60px;
+    color: rgb(0, 128, 0,1);
+}
+
+
+
